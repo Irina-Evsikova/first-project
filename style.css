@@ -6,3 +6,20 @@
 .header {
 	font-size: 24px;
 }
+
+.content {
+	border: 2px solid rgba(0,84,174,1.00);
+	margin-top: 10px;
+	width: 306px;
+    height: 150px;
+	display: flex;
+}
+
+.list {
+	align-self: center;
+	margin: 0 auto;
+	padding: 20px;
+}
+.flow {
+	list-style: none;
+}
